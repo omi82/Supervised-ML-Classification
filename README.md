@@ -1,4 +1,4 @@
-# Supervised-ML-Classification
+# Smartphone Market Price Range Prediction
 This repository contains a machine learning classification model developed to classify price of mobile based on historical data.
 
 **PROBLEM STATEMENT**
